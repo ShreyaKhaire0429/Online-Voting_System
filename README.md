@@ -3,6 +3,7 @@ Online Voting System
 📌 Project Overview
 The Online Voting System is a web-based application that allows users to participate in elections electronically. The system provides a secure and efficient way to conduct elections, ensuring transparency and ease of use for both voters and administrators.
 
+
 🚀 Features
 User Registration & Authentication – Secure login and signup for voters.
 Admin Dashboard – Manage elections, candidates, and results.
